@@ -3,3 +3,5 @@ papermill
 autopep8
 jupytext
 autoflake
+ipykernel
+scikit-learn
